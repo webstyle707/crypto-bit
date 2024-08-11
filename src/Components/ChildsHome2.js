@@ -293,7 +293,7 @@ function ChildsHome2() {
 
                 <div className='space-y-6 *:space-y-4'>
                     <div>
-                        <h1 className='text-xl font-semibold bg-gray-100 py-6 px-4'>
+                        <h1 className='md:text-xl font-semibold bg-gray-100 py-6 px-4'>
                             Four tips to invest in cryptocurrency safely
                         </h1>
                         <p>
